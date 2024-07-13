@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'zh-Hans',
   title: "SB日报工作室",
   description: "Science",
+  base: "/apps/",
   lastUpdated: true, // string | boolean
   markdown: {
     math: true
